@@ -1,6 +1,6 @@
 # BeeStation BYOND Docker Image
 
-There are two ways to use this Dockerfile. You can either use our docker images hosted on the Docker Hub using the following methods:
+There are two ways to use this Dockerfile. You can use our docker images hosted on the Docker Hub using the following methods:
 
 ```
 # Stable release
